@@ -13,8 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Riskr999/DSA-Patterns/tree/master/0023-merge-k-sorted-lists) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Riskr999/DSA-Patterns/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Riskr999/DSA-Patterns/tree/master/0023-merge-k-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Riskr999/DSA-Patterns/tree/master/0373-find-k-pairs-with-smallest-sums) |
 <!---LeetCode Topics End-->
