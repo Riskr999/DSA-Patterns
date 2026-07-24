@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Riskr999/DSA-Patterns/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Riskr999/DSA-Patterns/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0092-reverse-linked-list-ii) |
 ## Divide and Conquer
 |  |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Riskr999/DSA-Patterns/tree/master/0621-task-scheduler) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Riskr999/DSA-Patterns/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
