@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Riskr999/DSA-Patterns/tree/master/0200-number-of-islands) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Riskr999/DSA-Patterns/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/Riskr999/DSA-Patterns/tree/master/0621-task-scheduler) |
 ## Hash Table
@@ -68,4 +69,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Riskr999/DSA-Patterns/tree/master/0143-reorder-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Riskr999/DSA-Patterns/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Riskr999/DSA-Patterns/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Riskr999/DSA-Patterns/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Riskr999/DSA-Patterns/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
