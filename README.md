@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Riskr999/DSA-Patterns/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Riskr999/DSA-Patterns/tree/master/0148-sort-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Riskr999/DSA-Patterns/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Riskr999/DSA-Patterns/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Riskr999/DSA-Patterns/tree/master/0148-sort-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Riskr999/DSA-Patterns/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
