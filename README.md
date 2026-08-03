@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Riskr999/DSA-Patterns/tree/master/0046-permutations) |
 | [0200-number-of-islands](https://github.com/Riskr999/DSA-Patterns/tree/master/0200-number-of-islands) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Riskr999/DSA-Patterns/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/Riskr999/DSA-Patterns/tree/master/0621-task-scheduler) |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Riskr999/DSA-Patterns/tree/master/0547-number-of-provinces) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Riskr999/DSA-Patterns/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
