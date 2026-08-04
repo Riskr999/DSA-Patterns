@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Riskr999/DSA-Patterns/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Riskr999/DSA-Patterns/tree/master/0148-sort-list) |
+| [0392-is-subsequence](https://github.com/Riskr999/DSA-Patterns/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Riskr999/DSA-Patterns/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -102,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Riskr999/DSA-Patterns/tree/master/0046-permutations) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Riskr999/DSA-Patterns/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Riskr999/DSA-Patterns/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
