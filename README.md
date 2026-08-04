@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Riskr999/DSA-Patterns/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Riskr999/DSA-Patterns/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/Riskr999/DSA-Patterns/tree/master/0200-number-of-islands) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Riskr999/DSA-Patterns/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/Riskr999/DSA-Patterns/tree/master/0621-task-scheduler) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Riskr999/DSA-Patterns/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Riskr999/DSA-Patterns/tree/master/0078-subsets) |
 ## String
 |  |
 | ------- |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Riskr999/DSA-Patterns/tree/master/0392-is-subsequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Riskr999/DSA-Patterns/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
