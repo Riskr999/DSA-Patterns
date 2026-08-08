@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Riskr999/DSA-Patterns/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Riskr999/DSA-Patterns/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/Riskr999/DSA-Patterns/tree/master/0200-number-of-islands) |
+| [0216-combination-sum-iii](https://github.com/Riskr999/DSA-Patterns/tree/master/0216-combination-sum-iii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Riskr999/DSA-Patterns/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/Riskr999/DSA-Patterns/tree/master/0621-task-scheduler) |
 | [0994-rotting-oranges](https://github.com/Riskr999/DSA-Patterns/tree/master/0994-rotting-oranges) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Riskr999/DSA-Patterns/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Riskr999/DSA-Patterns/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/Riskr999/DSA-Patterns/tree/master/0216-combination-sum-iii) |
 ## String
 |  |
 | ------- |
