@@ -116,14 +116,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Riskr999/DSA-Patterns/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Riskr999/DSA-Patterns/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Riskr999/DSA-Patterns/tree/master/0216-combination-sum-iii) |
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Riskr999/DSA-Patterns/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/Riskr999/DSA-Patterns/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Riskr999/DSA-Patterns/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/Riskr999/DSA-Patterns/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
