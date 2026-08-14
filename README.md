@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Riskr999/DSA-Patterns/tree/master/0216-combination-sum-iii) |
 | [0303-range-sum-query-immutable](https://github.com/Riskr999/DSA-Patterns/tree/master/0303-range-sum-query-immutable) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Riskr999/DSA-Patterns/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0525-contiguous-array](https://github.com/Riskr999/DSA-Patterns/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Riskr999/DSA-Patterns/tree/master/0621-task-scheduler) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Riskr999/DSA-Patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Riskr999/DSA-Patterns/tree/master/0037-sudoku-solver) |
 | [0142-linked-list-cycle-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0142-linked-list-cycle-ii) |
+| [0525-contiguous-array](https://github.com/Riskr999/DSA-Patterns/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Riskr999/DSA-Patterns/tree/master/0621-task-scheduler) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Riskr999/DSA-Patterns/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/Riskr999/DSA-Patterns/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2574-left-and-right-sum-differences](https://github.com/Riskr999/DSA-Patterns/tree/master/2574-left-and-right-sum-differences) |
