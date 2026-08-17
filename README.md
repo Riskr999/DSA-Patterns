@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Riskr999/DSA-Patterns/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Riskr999/DSA-Patterns/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/Riskr999/DSA-Patterns/tree/master/0643-maximum-average-subarray-i) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Riskr999/DSA-Patterns/tree/master/0994-rotting-oranges) |
 | [2029-stone-game-ix](https://github.com/Riskr999/DSA-Patterns/tree/master/2029-stone-game-ix) |
@@ -200,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Riskr999/DSA-Patterns/tree/master/2029-stone-game-ix) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Riskr999/DSA-Patterns/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
