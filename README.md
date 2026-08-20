@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Riskr999/DSA-Patterns/tree/master/0994-rotting-oranges) |
 | [2029-stone-game-ix](https://github.com/Riskr999/DSA-Patterns/tree/master/2029-stone-game-ix) |
 | [2574-left-and-right-sum-differences](https://github.com/Riskr999/DSA-Patterns/tree/master/2574-left-and-right-sum-differences) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Riskr999/DSA-Patterns/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Riskr999/DSA-Patterns/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
@@ -214,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Riskr999/DSA-Patterns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Riskr999/DSA-Patterns/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Riskr999/DSA-Patterns/tree/master/0643-maximum-average-subarray-i) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Riskr999/DSA-Patterns/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
