@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Riskr999/DSA-Patterns/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/Riskr999/DSA-Patterns/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Riskr999/DSA-Patterns/tree/master/0567-permutation-in-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Riskr999/DSA-Patterns/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Riskr999/DSA-Patterns/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Riskr999/DSA-Patterns/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0713-subarray-product-less-than-k) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Riskr999/DSA-Patterns/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Riskr999/DSA-Patterns/tree/master/3364-minimum-positive-sum-subarray) |
 ## Simulation
 |  |
