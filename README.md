@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Riskr999/DSA-Patterns/tree/master/0994-rotting-oranges) |
 | [2029-stone-game-ix](https://github.com/Riskr999/DSA-Patterns/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Riskr999/DSA-Patterns/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Riskr999/DSA-Patterns/tree/master/2574-left-and-right-sum-differences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Riskr999/DSA-Patterns/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Riskr999/DSA-Patterns/tree/master/3364-minimum-positive-sum-subarray) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/Riskr999/DSA-Patterns/tree/master/0621-task-scheduler) |
 | [2029-stone-game-ix](https://github.com/Riskr999/DSA-Patterns/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Riskr999/DSA-Patterns/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Sorting
 |  |
 | ------- |
