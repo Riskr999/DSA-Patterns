@@ -119,11 +119,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Riskr999/DSA-Patterns/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Riskr999/DSA-Patterns/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Riskr999/DSA-Patterns/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Riskr999/DSA-Patterns/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Riskr999/DSA-Patterns/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Riskr999/DSA-Patterns/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Riskr999/DSA-Patterns/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/Riskr999/DSA-Patterns/tree/master/0994-rotting-oranges) |
 ## Union-Find
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Riskr999/DSA-Patterns/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Riskr999/DSA-Patterns/tree/master/0547-number-of-provinces) |
 ## Backtracking
 |  |
@@ -254,4 +257,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Riskr999/DSA-Patterns/tree/master/0239-sliding-window-maximum) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Riskr999/DSA-Patterns/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Riskr999/DSA-Patterns/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
