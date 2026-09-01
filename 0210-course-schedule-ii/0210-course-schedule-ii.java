@@ -34,8 +34,8 @@ class Solution {
             }
         }
         if(processedNodes==numCourses){
-            int[] primitiveArray = new int[numCourses];
-        return   primitiveArray = result.stream().mapToInt(Integer::intValue).toArray();
+            
+            return result.stream().mapToInt(Integer::intValue).toArray();
         }
         return new int[0];
     }
