@@ -4,37 +4,34 @@ class Solution {
         for(int i=0;i<numCourses;i++){
             adj.add(new ArrayList<>());
         }
+        
+        int[] inDegree = new int[numCourses];
         for(int[] pair: prerequisites){
+
             int a = pair[0],b = pair[1];
             adj.get(b).add(a);
+            inDegree[a]++;
         }
-        boolean[] visited = new boolean[numCourses];
-        boolean[] inStack = new boolean[numCourses];
+        Queue<Integer> queue = new LinkedList<>();
 
         for(int i=0;i<numCourses;i++){
-            if(!visited[i]){
-                if(hasCycle(i,adj,visited,inStack)){
-                    return false;
-                }
+            if(inDegree[i]==0){
+                queue.offer(i);
             }
         }
-        return true;
-    }
-    private boolean hasCycle(int node, List<List<Integer>> adj, boolean[] visited, boolean[] inStack) {
-        visited[node] = true;
-        inStack[node] = true;
 
-        for(int neighbor: adj.get(node)){
-            if(inStack[neighbor]){
-                return true;
-            }
-            if(visited[neighbor]){
-                if(hasCycle(neighbor,adj,visited,inStack)){
-                    return true;
+        int processedNodes = 0;
+
+        while(!queue.isEmpty()){
+            int node = queue.poll();
+            processedNodes++;
+            for(int neighbor: adj.get(node)){
+                inDegree[neighbor]--;
+                if(inDegree[neighbor]==0){
+                    queue.offer(neighbor);
                 }
             }
         }
-        inStack[node] = false;
-        return false;
+        return processedNodes == numCourses;
     }
 }
