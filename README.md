@@ -120,12 +120,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Riskr999/DSA-Patterns/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Riskr999/DSA-Patterns/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Riskr999/DSA-Patterns/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Riskr999/DSA-Patterns/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Riskr999/DSA-Patterns/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Riskr999/DSA-Patterns/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Riskr999/DSA-Patterns/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/Riskr999/DSA-Patterns/tree/master/0994-rotting-oranges) |
 ## Union-Find
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Riskr999/DSA-Patterns/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Riskr999/DSA-Patterns/tree/master/0547-number-of-provinces) |
 ## Backtracking
 |  |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Riskr999/DSA-Patterns/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0210-course-schedule-ii) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
