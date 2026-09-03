@@ -1,50 +1,26 @@
 class Solution {
     public int findCircleNum(int[][] isConnected){
-       List<List<Integer>> adj =  maxToList(isConnected);
-       int numNodes = isConnected.length;
+        int n = isConnected.length;
+    boolean[] visited = new boolean[n];
+    int provinces = 0;
 
-        int[] vis = new int[numNodes];
-        int cnt = 0;
-        for(int i  =0;i<numNodes;i++){
-            if(vis[i] == 0){
-                cnt++;
-                dfs(i,adj,vis);
-            }
+    for (int i = 0; i < n; i++) {
+        if (!visited[i]) {
+            provinces++;           
+            dfs(isConnected, visited, i);
         }
-        return cnt;
-
-
-
-        
     }
-    public  void dfs(int current, List<List<Integer>> adj, int[] vis ){
-        vis[current] = 1;
-        
 
-        for(int neighbour : adj.get(current)){
-            if(vis[neighbour]==0){
-                dfs(neighbour,adj,vis);
-            }
-        }
-
+    return provinces;
     }
-    public List<List<Integer>> maxToList(int[][] matrix){
-        int numNodes = matrix.length;
-        List<List<Integer>> adjList = new ArrayList<>();
+    public void dfs(int[][] isConnected,boolean[] visited,int city){
+        visited[city] = true;
 
-        for(int i =0;i<numNodes;i++){
-            adjList.add(new ArrayList<>());
-        }
-
-        for(int i =0;i<numNodes; i++){
-            for(int j=0; j<numNodes;j++){
-                if(matrix[i][j]==1){
-                    adjList.get(i).add(j);
-                }
+        for(int neighbor=0;neighbor<isConnected.length;neighbor++){
+            if(isConnected[city][neighbor]== 1 && !visited[neighbor]){
+                dfs(isConnected,visited,neighbor);
             }
-        }
 
-        return adjList;
-        
+        }
     }
 }
