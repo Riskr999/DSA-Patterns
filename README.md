@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Riskr999/DSA-Patterns/tree/master/0994-rotting-oranges) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Riskr999/DSA-Patterns/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2029-stone-game-ix](https://github.com/Riskr999/DSA-Patterns/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Riskr999/DSA-Patterns/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Riskr999/DSA-Patterns/tree/master/2574-left-and-right-sum-differences) |
