@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Riskr999/DSA-Patterns/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Riskr999/DSA-Patterns/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Riskr999/DSA-Patterns/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Riskr999/DSA-Patterns/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/Riskr999/DSA-Patterns/tree/master/0303-range-sum-query-immutable) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Riskr999/DSA-Patterns/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Riskr999/DSA-Patterns/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Riskr999/DSA-Patterns/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0229-majority-element-ii) |
 | [0525-contiguous-array](https://github.com/Riskr999/DSA-Patterns/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Riskr999/DSA-Patterns/tree/master/0567-permutation-in-string) |
@@ -94,11 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/Riskr999/DSA-Patterns/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Riskr999/DSA-Patterns/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/Riskr999/DSA-Patterns/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Riskr999/DSA-Patterns/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/Riskr999/DSA-Patterns/tree/master/0621-task-scheduler) |
 | [2029-stone-game-ix](https://github.com/Riskr999/DSA-Patterns/tree/master/2029-stone-game-ix) |
 ## Recursion
@@ -289,4 +293,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Riskr999/DSA-Patterns/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
