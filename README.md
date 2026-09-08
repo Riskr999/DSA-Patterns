@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Riskr999/DSA-Patterns/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Riskr999/DSA-Patterns/tree/master/1020-number-of-enclaves) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Riskr999/DSA-Patterns/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2029-stone-game-ix](https://github.com/Riskr999/DSA-Patterns/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Riskr999/DSA-Patterns/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Riskr999/DSA-Patterns/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Riskr999/DSA-Patterns/tree/master/0684-redundant-connection) |
+| [1020-number-of-enclaves](https://github.com/Riskr999/DSA-Patterns/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Riskr999/DSA-Patterns/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Riskr999/DSA-Patterns/tree/master/0684-redundant-connection) |
 | [0994-rotting-oranges](https://github.com/Riskr999/DSA-Patterns/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Riskr999/DSA-Patterns/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Riskr999/DSA-Patterns/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Riskr999/DSA-Patterns/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Riskr999/DSA-Patterns/tree/master/0684-redundant-connection) |
+| [1020-number-of-enclaves](https://github.com/Riskr999/DSA-Patterns/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Riskr999/DSA-Patterns/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Riskr999/DSA-Patterns/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Riskr999/DSA-Patterns/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Riskr999/DSA-Patterns/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
