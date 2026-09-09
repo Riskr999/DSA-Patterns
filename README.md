@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Riskr999/DSA-Patterns/tree/master/0050-powx-n) |
 | [2029-stone-game-ix](https://github.com/Riskr999/DSA-Patterns/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Riskr999/DSA-Patterns/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3871-count-commas-in-range-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Riskr999/DSA-Patterns/tree/master/3875-construct-uniform-parity-array-i) |
 ## Algorithm X
 |  |
