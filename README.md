@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Riskr999/DSA-Patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Riskr999/DSA-Patterns/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Riskr999/DSA-Patterns/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/Riskr999/DSA-Patterns/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Riskr999/DSA-Patterns/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0229-majority-element-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Riskr999/DSA-Patterns/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Riskr999/DSA-Patterns/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Riskr999/DSA-Patterns/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Riskr999/DSA-Patterns/tree/master/0207-course-schedule) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Riskr999/DSA-Patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/Riskr999/DSA-Patterns/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Riskr999/DSA-Patterns/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/Riskr999/DSA-Patterns/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Riskr999/DSA-Patterns/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/Riskr999/DSA-Patterns/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Riskr999/DSA-Patterns/tree/master/0567-permutation-in-string) |
@@ -317,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Riskr999/DSA-Patterns/tree/master/0005-longest-palindromic-substring) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Riskr999/DSA-Patterns/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
