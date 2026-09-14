@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Riskr999/DSA-Patterns/tree/master/0050-powx-n) |
+| [0836-rectangle-overlap](https://github.com/Riskr999/DSA-Patterns/tree/master/0836-rectangle-overlap) |
 | [2029-stone-game-ix](https://github.com/Riskr999/DSA-Patterns/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Riskr999/DSA-Patterns/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/3871-count-commas-in-range-ii) |
@@ -339,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Riskr999/DSA-Patterns/tree/master/0802-find-eventual-safe-states) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Riskr999/DSA-Patterns/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
