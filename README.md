@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Riskr999/DSA-Patterns/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Riskr999/DSA-Patterns/tree/master/0239-sliding-window-maximum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Riskr999/DSA-Patterns/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0451-sort-characters-by-frequency](https://github.com/Riskr999/DSA-Patterns/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Riskr999/DSA-Patterns/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Riskr999/DSA-Patterns/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Riskr999/DSA-Patterns/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/Riskr999/DSA-Patterns/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Riskr999/DSA-Patterns/tree/master/0567-permutation-in-string) |
@@ -106,12 +108,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Riskr999/DSA-Patterns/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Riskr999/DSA-Patterns/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Riskr999/DSA-Patterns/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Riskr999/DSA-Patterns/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Riskr999/DSA-Patterns/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Riskr999/DSA-Patterns/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Riskr999/DSA-Patterns/tree/master/0621-task-scheduler) |
 | [2029-stone-game-ix](https://github.com/Riskr999/DSA-Patterns/tree/master/2029-stone-game-ix) |
 ## Recursion
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Riskr999/DSA-Patterns/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Riskr999/DSA-Patterns/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/Riskr999/DSA-Patterns/tree/master/0392-is-subsequence) |
+| [0451-sort-characters-by-frequency](https://github.com/Riskr999/DSA-Patterns/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Riskr999/DSA-Patterns/tree/master/0567-permutation-in-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Riskr999/DSA-Patterns/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
@@ -347,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Riskr999/DSA-Patterns/tree/master/0836-rectangle-overlap) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Riskr999/DSA-Patterns/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
