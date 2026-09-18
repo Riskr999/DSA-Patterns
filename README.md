@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Riskr999/DSA-Patterns/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Riskr999/DSA-Patterns/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Riskr999/DSA-Patterns/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Riskr999/DSA-Patterns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Riskr999/DSA-Patterns/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Riskr999/DSA-Patterns/tree/master/0143-reorder-list) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Riskr999/DSA-Patterns/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Riskr999/DSA-Patterns/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Riskr999/DSA-Patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Riskr999/DSA-Patterns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/Riskr999/DSA-Patterns/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Riskr999/DSA-Patterns/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Riskr999/DSA-Patterns/tree/master/0125-valid-palindrome) |
@@ -359,4 +361,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Riskr999/DSA-Patterns/tree/master/0451-sort-characters-by-frequency) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Riskr999/DSA-Patterns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Riskr999/DSA-Patterns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Riskr999/DSA-Patterns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Riskr999/DSA-Patterns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
