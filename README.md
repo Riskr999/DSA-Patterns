@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Riskr999/DSA-Patterns/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Riskr999/DSA-Patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Riskr999/DSA-Patterns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Riskr999/DSA-Patterns/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/Riskr999/DSA-Patterns/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Riskr999/DSA-Patterns/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Riskr999/DSA-Patterns/tree/master/0125-valid-palindrome) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Riskr999/DSA-Patterns/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Riskr999/DSA-Patterns/tree/master/0050-powx-n) |
 | [0836-rectangle-overlap](https://github.com/Riskr999/DSA-Patterns/tree/master/0836-rectangle-overlap) |
 | [2029-stone-game-ix](https://github.com/Riskr999/DSA-Patterns/tree/master/2029-stone-game-ix) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Riskr999/DSA-Patterns/tree/master/0043-multiply-strings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Riskr999/DSA-Patterns/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
