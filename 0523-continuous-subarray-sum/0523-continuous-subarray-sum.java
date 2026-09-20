@@ -1,0 +1,29 @@
+class Solution {
+    public boolean checkSubarraySum(int[] nums, int k) {
+        Map<Integer,Integer> map = new HashMap<>();
+        map.put(0,-1);
+
+        int rsum = 0;
+        for(int i =0;i<nums.length;i++){
+            rsum += nums[i];
+            int remainder = rsum%k;
+
+            if(remainder<0){
+                remainder = remainder+k;
+            }
+
+            if(map.containsKey(remainder)){
+                int prevIndex = map.get(remainder);
+                if(i - prevIndex>=2){
+                    return true;
+                }
+                
+            }
+            else{
+                map.put(remainder,i);
+            }
+
+        }
+        return false;
+    }
+}
