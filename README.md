@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Riskr999/DSA-Patterns/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Riskr999/DSA-Patterns/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Riskr999/DSA-Patterns/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Riskr999/DSA-Patterns/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Riskr999/DSA-Patterns/tree/master/1020-number-of-enclaves) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Riskr999/DSA-Patterns/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Riskr999/DSA-Patterns/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2574-left-and-right-sum-differences](https://github.com/Riskr999/DSA-Patterns/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Riskr999/DSA-Patterns/tree/master/3364-minimum-positive-sum-subarray) |
