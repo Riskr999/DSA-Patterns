@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Riskr999/DSA-Patterns/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/Riskr999/DSA-Patterns/tree/master/0303-range-sum-query-immutable) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Riskr999/DSA-Patterns/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0523-continuous-subarray-sum](https://github.com/Riskr999/DSA-Patterns/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Riskr999/DSA-Patterns/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/Riskr999/DSA-Patterns/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0560-subarray-sum-equals-k) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Riskr999/DSA-Patterns/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Riskr999/DSA-Patterns/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/Riskr999/DSA-Patterns/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Riskr999/DSA-Patterns/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Riskr999/DSA-Patterns/tree/master/0567-permutation-in-string) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Riskr999/DSA-Patterns/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Riskr999/DSA-Patterns/tree/master/0050-powx-n) |
+| [0523-continuous-subarray-sum](https://github.com/Riskr999/DSA-Patterns/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/Riskr999/DSA-Patterns/tree/master/0836-rectangle-overlap) |
 | [2029-stone-game-ix](https://github.com/Riskr999/DSA-Patterns/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Riskr999/DSA-Patterns/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Riskr999/DSA-Patterns/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Riskr999/DSA-Patterns/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Riskr999/DSA-Patterns/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0713-subarray-product-less-than-k) |
@@ -380,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Riskr999/DSA-Patterns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Riskr999/DSA-Patterns/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
