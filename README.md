@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Riskr999/DSA-Patterns/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Riskr999/DSA-Patterns/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Riskr999/DSA-Patterns/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Riskr999/DSA-Patterns/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Riskr999/DSA-Patterns/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0090-subsets-ii) |
