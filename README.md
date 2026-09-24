@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Riskr999/DSA-Patterns/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Riskr999/DSA-Patterns/tree/master/0567-permutation-in-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Riskr999/DSA-Patterns/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Riskr999/DSA-Patterns/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Riskr999/DSA-Patterns/tree/master/0043-multiply-strings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Riskr999/DSA-Patterns/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Riskr999/DSA-Patterns/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
