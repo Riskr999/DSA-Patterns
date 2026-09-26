@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Riskr999/DSA-Patterns/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/Riskr999/DSA-Patterns/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Riskr999/DSA-Patterns/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/Riskr999/DSA-Patterns/tree/master/0743-network-delay-time) |
 ## Merge Sort
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Riskr999/DSA-Patterns/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Riskr999/DSA-Patterns/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/Riskr999/DSA-Patterns/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Riskr999/DSA-Patterns/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Riskr999/DSA-Patterns/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Riskr999/DSA-Patterns/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Riskr999/DSA-Patterns/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Riskr999/DSA-Patterns/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/Riskr999/DSA-Patterns/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Riskr999/DSA-Patterns/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Riskr999/DSA-Patterns/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Riskr999/DSA-Patterns/tree/master/1020-number-of-enclaves) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Riskr999/DSA-Patterns/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Riskr999/DSA-Patterns/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/Riskr999/DSA-Patterns/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Riskr999/DSA-Patterns/tree/master/0802-find-eventual-safe-states) |
 ## Backtracking
 |  |
@@ -408,4 +412,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Riskr999/DSA-Patterns/tree/master/0056-merge-intervals) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Riskr999/DSA-Patterns/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Riskr999/DSA-Patterns/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
