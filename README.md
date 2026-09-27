@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Riskr999/DSA-Patterns/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Riskr999/DSA-Patterns/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/Riskr999/DSA-Patterns/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Riskr999/DSA-Patterns/tree/master/1631-path-with-minimum-effort) |
 ## Merge Sort
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Riskr999/DSA-Patterns/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Riskr999/DSA-Patterns/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Riskr999/DSA-Patterns/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Riskr999/DSA-Patterns/tree/master/1631-path-with-minimum-effort) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Riskr999/DSA-Patterns/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2029-stone-game-ix](https://github.com/Riskr999/DSA-Patterns/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Riskr999/DSA-Patterns/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Riskr999/DSA-Patterns/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Riskr999/DSA-Patterns/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Riskr999/DSA-Patterns/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Riskr999/DSA-Patterns/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Riskr999/DSA-Patterns/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Riskr999/DSA-Patterns/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Riskr999/DSA-Patterns/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Riskr999/DSA-Patterns/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
 | ------- |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Riskr999/DSA-Patterns/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Riskr999/DSA-Patterns/tree/master/0684-redundant-connection) |
 | [1020-number-of-enclaves](https://github.com/Riskr999/DSA-Patterns/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Riskr999/DSA-Patterns/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -207,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Riskr999/DSA-Patterns/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Riskr999/DSA-Patterns/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Riskr999/DSA-Patterns/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Riskr999/DSA-Patterns/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -337,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0713-subarray-product-less-than-k) |
+| [1631-path-with-minimum-effort](https://github.com/Riskr999/DSA-Patterns/tree/master/1631-path-with-minimum-effort) |
 ## Queue
 |  |
 | ------- |
@@ -420,4 +427,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Riskr999/DSA-Patterns/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Riskr999/DSA-Patterns/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
