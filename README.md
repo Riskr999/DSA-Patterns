@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Riskr999/DSA-Patterns/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Riskr999/DSA-Patterns/tree/master/0130-surrounded-regions) |
+| [0162-find-peak-element](https://github.com/Riskr999/DSA-Patterns/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Riskr999/DSA-Patterns/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Riskr999/DSA-Patterns/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Riskr999/DSA-Patterns/tree/master/0216-combination-sum-iii) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Riskr999/DSA-Patterns/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/Riskr999/DSA-Patterns/tree/master/0162-find-peak-element) |
 | [0713-subarray-product-less-than-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0713-subarray-product-less-than-k) |
 | [1631-path-with-minimum-effort](https://github.com/Riskr999/DSA-Patterns/tree/master/1631-path-with-minimum-effort) |
 ## Queue
