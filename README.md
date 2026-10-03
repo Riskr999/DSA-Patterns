@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Riskr999/DSA-Patterns/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Riskr999/DSA-Patterns/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Riskr999/DSA-Patterns/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/Riskr999/DSA-Patterns/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/Riskr999/DSA-Patterns/tree/master/0836-rectangle-overlap) |
 | [2029-stone-game-ix](https://github.com/Riskr999/DSA-Patterns/tree/master/2029-stone-game-ix) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Riskr999/DSA-Patterns/tree/master/0069-sqrtx) |
 | [0713-subarray-product-less-than-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0713-subarray-product-less-than-k) |
 | [1631-path-with-minimum-effort](https://github.com/Riskr999/DSA-Patterns/tree/master/1631-path-with-minimum-effort) |
 ## Queue
@@ -435,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Riskr999/DSA-Patterns/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/Riskr999/DSA-Patterns/tree/master/1631-path-with-minimum-effort) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Riskr999/DSA-Patterns/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
