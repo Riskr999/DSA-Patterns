@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Riskr999/DSA-Patterns/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Riskr999/DSA-Patterns/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Riskr999/DSA-Patterns/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Riskr999/DSA-Patterns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/Riskr999/DSA-Patterns/tree/master/1631-path-with-minimum-effort) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Riskr999/DSA-Patterns/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2029-stone-game-ix](https://github.com/Riskr999/DSA-Patterns/tree/master/2029-stone-game-ix) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Riskr999/DSA-Patterns/tree/master/0162-find-peak-element) |
 | [0713-subarray-product-less-than-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Riskr999/DSA-Patterns/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Riskr999/DSA-Patterns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/Riskr999/DSA-Patterns/tree/master/1631-path-with-minimum-effort) |
 ## Queue
 |  |
