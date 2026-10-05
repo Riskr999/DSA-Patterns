@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Riskr999/DSA-Patterns/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Riskr999/DSA-Patterns/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Riskr999/DSA-Patterns/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Riskr999/DSA-Patterns/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Riskr999/DSA-Patterns/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Riskr999/DSA-Patterns/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Riskr999/DSA-Patterns/tree/master/0542-01-matrix) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Riskr999/DSA-Patterns/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Riskr999/DSA-Patterns/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Riskr999/DSA-Patterns/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Riskr999/DSA-Patterns/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Riskr999/DSA-Patterns/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -438,11 +441,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Riskr999/DSA-Patterns/tree/master/0743-network-delay-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Riskr999/DSA-Patterns/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Riskr999/DSA-Patterns/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/Riskr999/DSA-Patterns/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Riskr999/DSA-Patterns/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Newton's Method
 |  |
 | ------- |
