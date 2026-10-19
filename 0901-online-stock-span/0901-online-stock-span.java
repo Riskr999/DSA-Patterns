@@ -1,22 +1,20 @@
 class StockSpanner {
-    private List<Integer> lis;
+    private Deque<int[]> st;
     public StockSpanner() {
-        lis = new ArrayList<>();
+        st = new ArrayDeque<>();
+
 
         
     }
     
     public int next(int price) {
-        lis.add(price);
-        int span = 0;
-        for(int i=lis.size()-1;i>=0;i--){
-            if(lis.get(i)<=price){
-                span++;
-            }
-            else{
-                break;
-            }
+        
+        int span = 1;
+        while(!st.isEmpty()&&price>=st.peek()[0]){
+            span+=st.pop()[1];
+
         }
+        st.push(new int[]{price,span});
         return span;
     }
 }
