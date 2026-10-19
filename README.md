@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Riskr999/DSA-Patterns/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Riskr999/DSA-Patterns/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Riskr999/DSA-Patterns/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Riskr999/DSA-Patterns/tree/master/0901-online-stock-span) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Riskr999/DSA-Patterns/tree/master/0303-range-sum-query-immutable) |
+| [0901-online-stock-span](https://github.com/Riskr999/DSA-Patterns/tree/master/0901-online-stock-span) |
 ## Minimax
 |  |
 | ------- |
@@ -464,4 +466,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Riskr999/DSA-Patterns/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Riskr999/DSA-Patterns/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Riskr999/DSA-Patterns/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
