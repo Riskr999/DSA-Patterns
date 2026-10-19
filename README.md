@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Riskr999/DSA-Patterns/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Riskr999/DSA-Patterns/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Riskr999/DSA-Patterns/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Riskr999/DSA-Patterns/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Riskr999/DSA-Patterns/tree/master/0994-rotting-oranges) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Riskr999/DSA-Patterns/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Riskr999/DSA-Patterns/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Riskr999/DSA-Patterns/tree/master/0739-daily-temperatures) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -458,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Riskr999/DSA-Patterns/tree/master/0069-sqrtx) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Riskr999/DSA-Patterns/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
