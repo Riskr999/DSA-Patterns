@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Riskr999/DSA-Patterns/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Riskr999/DSA-Patterns/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Riskr999/DSA-Patterns/tree/master/0769-max-chunks-to-make-sorted) |
 | [0875-koko-eating-bananas](https://github.com/Riskr999/DSA-Patterns/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Riskr999/DSA-Patterns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Riskr999/DSA-Patterns/tree/master/0994-rotting-oranges) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Riskr999/DSA-Patterns/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Riskr999/DSA-Patterns/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Riskr999/DSA-Patterns/tree/master/0621-task-scheduler) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Riskr999/DSA-Patterns/tree/master/0769-max-chunks-to-make-sorted) |
 | [2029-stone-game-ix](https://github.com/Riskr999/DSA-Patterns/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Riskr999/DSA-Patterns/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Sorting
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Riskr999/DSA-Patterns/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Riskr999/DSA-Patterns/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Riskr999/DSA-Patterns/tree/master/0621-task-scheduler) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Riskr999/DSA-Patterns/tree/master/0769-max-chunks-to-make-sorted) |
 ## Counting
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Riskr999/DSA-Patterns/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Riskr999/DSA-Patterns/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Riskr999/DSA-Patterns/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Riskr999/DSA-Patterns/tree/master/0769-max-chunks-to-make-sorted) |
 | [0901-online-stock-span](https://github.com/Riskr999/DSA-Patterns/tree/master/0901-online-stock-span) |
 ## Depth-First Search
 |  |
@@ -470,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Riskr999/DSA-Patterns/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Riskr999/DSA-Patterns/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Riskr999/DSA-Patterns/tree/master/0769-max-chunks-to-make-sorted) |
 | [0901-online-stock-span](https://github.com/Riskr999/DSA-Patterns/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
