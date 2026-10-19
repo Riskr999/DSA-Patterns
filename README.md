@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Riskr999/DSA-Patterns/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Riskr999/DSA-Patterns/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Riskr999/DSA-Patterns/tree/master/0621-task-scheduler) |
 | [2029-stone-game-ix](https://github.com/Riskr999/DSA-Patterns/tree/master/2029-stone-game-ix) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Riskr999/DSA-Patterns/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Riskr999/DSA-Patterns/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Riskr999/DSA-Patterns/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Riskr999/DSA-Patterns/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Riskr999/DSA-Patterns/tree/master/0901-online-stock-span) |
 ## Depth-First Search
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Riskr999/DSA-Patterns/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Riskr999/DSA-Patterns/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Riskr999/DSA-Patterns/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/Riskr999/DSA-Patterns/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Riskr999/DSA-Patterns/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Riskr999/DSA-Patterns/tree/master/0567-permutation-in-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Riskr999/DSA-Patterns/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Riskr999/DSA-Patterns/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Riskr999/DSA-Patterns/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Riskr999/DSA-Patterns/tree/master/0901-online-stock-span) |
 ## Data Stream
