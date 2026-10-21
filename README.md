@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Riskr999/DSA-Patterns/tree/master/1631-path-with-minimum-effort) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Riskr999/DSA-Patterns/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2029-stone-game-ix](https://github.com/Riskr999/DSA-Patterns/tree/master/2029-stone-game-ix) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Riskr999/DSA-Patterns/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Riskr999/DSA-Patterns/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Riskr999/DSA-Patterns/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2574-left-and-right-sum-differences](https://github.com/Riskr999/DSA-Patterns/tree/master/2574-left-and-right-sum-differences) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Riskr999/DSA-Patterns/tree/master/0043-multiply-strings) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Riskr999/DSA-Patterns/tree/master/2073-time-needed-to-buy-tickets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Riskr999/DSA-Patterns/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Riskr999/DSA-Patterns/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Riskr999/DSA-Patterns/tree/master/0239-sliding-window-maximum) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Riskr999/DSA-Patterns/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
 | ------- |
